@@ -1,4 +1,6 @@
-# 🔝 Top 5 Things To Do
+# 🔝 Top Things To Do
+* [Pabirik Festival]()
+* [Calaguas Island](https://www.discoverthephilippines.com/calaguas-islands-visitors-guide/)
 
 # 🍔 Food & Grocery
 * [Lily's Eatery](https://www.lokal-lista.com/#/0)
