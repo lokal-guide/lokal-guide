@@ -41,4 +41,4 @@
 * 🏥 Rural Health Unit-Paracale
 
 # 🔗 Partners
-* ![ ](http://paracale.gov.ph/wp-content/uploads/2021/04/cropped-logo-32x32.png)[Municipality of Paracale](http://paracale.gov.ph/)
+* [<img src="http://paracale.gov.ph/wp-content/uploads/2021/04/cropped-logo-32x32.png" width="12" height="12"> Municipality of Paracale](http://paracale.gov.ph/)
