@@ -5,7 +5,7 @@
   - Daraga, Albay
   - Legazpi, Albay
   - Iriga City, Camarines Sur
-  - Paracale, Camarines Norte (Calaguas)
+  - [Paracale, Camarines Norte (Calaguas)](#/bayan/paracale.md)
   - Placer, Masbate
   - San Jose, Camarines Sur
 * festivals
