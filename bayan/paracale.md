@@ -41,6 +41,6 @@
 * 🏥 Rural Health Unit-Paracale
 
 # 🔗 Partners
-* [<img src="http://paracale.gov.ph/wp-content/uploads/2021/04/cropped-logo-32x32.png" width="12" height="12"> Municipality of Paracale](http://paracale.gov.ph/)
-* 📰 Want to advertise in TLDR? Apply here or email us at [foo@bar.com](email:foo@bar.com)
+* [<img src="http://paracale.gov.ph/wp-content/uploads/2021/04/cropped-logo-32x32.png" width="15" height="15"> Municipality of Paracale](http://paracale.gov.ph/)
+* 📰 Want to advertise with us? [Apply here](#) or email us at [foo@bar.com](email:foo@bar.com)
 
