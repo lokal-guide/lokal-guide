@@ -1,6 +1,10 @@
-# 🏝️ Things to Do
-* [Pabirik Festival]()
-* [Calaguas Island](https://www.discoverthephilippines.com/calaguas-islands-visitors-guide/)
+# Paracale, Camarines Norte
+
+Paracale is a coastal municipality located in **Camarines Norte**, Philippines, renowned for its rich history in gold mining and beautiful beaches 🌊. The town's name, derived from "para cale," means "canal digger," reflecting its mining heritage that dates back to the Spanish colonial period ⛏️. With a population of approximately **60,198** residents as of the 2020 census, Paracale thrives on artisanal and small-scale gold mining, providing livelihoods for many families in the area 💰.
+
+One of the town's highlights is the **Our Lady of Candelaria Church**, the oldest church in Camarines Norte, which attracts both locals and tourists seeking spiritual solace and historical insight ⛪. Paracale also serves as a gateway to **Calaguas Island**, famous for its pristine white sand beaches and crystal-clear waters, making it a popular destination for beach lovers and adventure seekers 🏖️. 
+
+The annual [**Pabirik Festival**](/pista/pabirik-festival.md), held from late January to early February, celebrates the town's gold mining culture with colorful parades and cultural performances 🎉. Visitors can explore local artisan shops featuring exquisite jewelry made from locally sourced gold, showcasing the craftsmanship of Paracale's residents 💍. With its unique blend of culture, history, and natural beauty, Paracale offers an unforgettable experience for those looking to explore the Bicol region! 🌟
 
 # 🍔 Where to Eat
 * [Lily's Eatery](https://www.lokal-lista.com/#/0)
@@ -19,13 +23,13 @@
 * [Find more here ...](https://www.lokal-lista.com/#/)
 
 # 🚐 Tours
-* [Calaguas Islands - MVPB Travels & Tours](https://www.lokal-lista.com/#/10)
-* [Calaguas Travel and Tour](https://www.lokal-lista.com/#/11)
+* Calaguas Travel and Tour | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/calaguastour01/)
+* Let's G Travel and Tours | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/lets.g20/)
 * [Find more here ...](https://www.lokal-lista.com/#/)
 
-# 🛍️ Shopping
-* [Espina Store](https://www.lokal-lista.com/#/15)
-* [Babina Store](https://www.lokal-lista.com/#/16)
+# 🛍️ Pasalubong Center
+* Jannah's Pasalubong | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/JannahsPasalubong/)
+* Candist's Souvenir Shop | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/candistsouvenirshop/)
 
 # 🏧 Money
 * [Rural Bank of Paracale](https://www.lokal-lista.com/#/25)
@@ -38,7 +42,9 @@
 
 # Emergency
 * 🚔 Paracale Municipal Police Station | [☎️ telephone](tel:+639985985960) | [☎️ mobile](tel:+639176222584) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/paracalempscnppo)
-* 🏥 Rural Health Unit-Paracale
+* 🏥 Paracale Rural Health Unit | [☎️ mobile](tel:+639998810149)
+* 🏥 [Vicente-Isabel Multispecialty Clinic and Diagnostic Center Inc.](https://vicente-isabel.com/friendly-community-medical-facility-in-paracale/) | [☎️ telephone](tel:+630548755483) | [☎️ mobile](tel:+639688835221) | [☎️ mobile](tel:+639688835219)
+* 🏥 Barrios Busiños Medical Clinic
 
 # 🔗 Partners
 * [<img src="http://paracale.gov.ph/wp-content/uploads/2021/04/cropped-logo-32x32.png" width="15" height="15"> Municipality of Paracale](http://paracale.gov.ph/)
