@@ -1,6 +1,4 @@
-# ll-guides
-
-* bayan
+- Cities / Municipalities
   - [Bato, Camarines Sur](/bayan/paracale.md)
   - [Daraga, Albay](/bayan/daraga.md)
   - [Legazpi, Albay](/bayan/legazpi-city.md)
@@ -8,7 +6,7 @@
   - [Paracale, Camarines Norte (Calaguas)](/bayan/paracale.md)
   - [Placer, Masbate](/bayan/placer.md)
   - [San Jose, Camarines Sur](/bayan/san-jose.md)
-* festivals
+- Festivals
   - [Bicol Arts Festival](/pista/bicol-arts-festival.md)
   - [Cagsawa Festival](/pista/cagsawa-festival.md)
   - [Fiesta Tsinoy](/pista/fiesta-tsinoy.md)
