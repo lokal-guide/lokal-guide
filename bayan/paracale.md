@@ -2,16 +2,6 @@
 
 Welcome to Paracale, the **"Jewelry Box of Camarines Norte"**, a historic gold mining town with a fascinating heritage! 🏅 Located in the northeastern part of Camarines Norte, this coastal municipality boasts a rich gold mining tradition dating back to the Spanish colonial period, with over half its population involved in artisanal and small-scale gold mining. 🌊 The town's name derives from _para cale_, meaning "canal digger", reflecting its deep connection to gold extraction, and is celebrated annually during the vibrant [**Pabirik Festival**](https://lokal-guide.github.io/lokal-guide/pista/pabirik-festival.html) featuring gold mining-themed parade floats. 🎉 Visitors can explore the municipal building's mini-museum showcasing exquisite locally crafted gold jewelry and learn about the town's unique mining culture. 🏺 With stunning coastal landscapes, access to the beautiful Calaguas Islands, and a population of 60,198, Paracale offers a compelling blend of natural beauty, historical significance, and cultural richness. 🌴
 
-Sources
-[1] Paracale - Wikipedia https://en.wikipedia.org/wiki/Paracale
-[2] Visualizing a Future with Formalized Artisanal and Small-Scale Gold ... https://www.planetgold.org/visualizing-future-formalized-artisanal-and-small-scale-gold-mining
-[3] Profile - Municipality of Paracale http://paracale.gov.ph/profile/
-[4] Paracale, Camarines Norte Profile - PhilAtlas https://www.philatlas.com/luzon/r05/camarines-norte/paracale.html
-[5] PARACALE, PHILIPPINES - TEKTITES INFO https://tektites.info/paracale-philippines
-[6] Paracale, Camarines Norte Province, Bicol Region, Luzon, Philippines https://www.mindat.org/loc-30693.html
-[7] Paracale Profile - Cities and Municipalities Competitive Index - DTI https://cmci.dti.gov.ph/lgu-profile.php?lgu=Paracale
-[8] Paracale, Camarines Norte - Facebook https://www.facebook.com/media/set/?set=a.1271257159587985.1073741833.1221630727883962&type=3
-
 # 🍔 Where to Eat
 
 - [CHB cafe](https://www.lokal-lista.com/#/)
