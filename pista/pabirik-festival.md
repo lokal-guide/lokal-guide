@@ -12,8 +12,8 @@ The Pabirik Festival serves as both a celebration of heritage and an educational
 
 # 🍔 Where to Eat
 
-- [CHB cafe](https://www.lokal-lista.com/#/)
-- [Pub-birik Restobar](https://www.lokal-lista.com/#/)
+- [CHB cafe](https://lokal-lista-app.netlify.app/#/business-profile/R751DRgBYQiTPIiPNG7T)
+- [Pub-birik Restobar](https://lokal-lista-app.netlify.app/#/business-profile/ZL9HNcVlwR6xx8ZxaEhe)
 - [Golden Pabirik Restaurant](https://www.lokal-lista.com/#/)
 - [Mga Apo ni Nana Oya Food Hauz](https://www.lokal-lista.com/#/)
 - [R&R Dine n' Sip Corner](https://www.lokal-lista.com/#/)
@@ -53,6 +53,7 @@ The Pabirik Festival serves as both a celebration of heritage and an educational
 
 - [📍 Purok 1, Brgy. Tugos, Paracale, Camarines Norte, Philippines](https://maps.app.goo.gl/P4EMsZNaYqcnz8cC7)
 - [💬 +63-998-598-5960](sms:+639985985960), [💬 +63-917-622-2584](sms:+639176222584)
+- [✉️ paracale_mps02@yahoo.com](mailto:paracale_mps02@yahoo.com)
 - [<img src="https://s.magecdn.com/social/16w/tc-facebook.png" width="15" height="15" /> Paracale MPS CNPPO](https://www.facebook.com/paracalempscnppo)
 
 ### 🏥 Paracale Rural Health Unit
@@ -63,7 +64,7 @@ The Pabirik Festival serves as both a celebration of heritage and an educational
 
 ### 🏥 [Vicente-Isabel Multispecialty Clinic and Diagnostic Center Inc.](https://vicente-isabel.com/friendly-community-medical-facility-in-paracale/)
 
-- [📍 P-3 Batobalani, Paracale, Camarines Norte, Philippines]()
+- [📍 P-3 Batobalani, Paracale, Camarines Norte, Philippines](https://maps.app.goo.gl/1xbWD9mt7yKpt78X6)
 - [📞 +63-054-875-5483](tel:+630548755483), [💬 +63-968-883-5221](sms:+639688835221), [💬 +63-968-883-5219](sms:+639688835219)
 - [✉️ paracale@vicente-isabel.com](mailto:paracale@vicente-isabel.com), [✉️ vimcdcibatobalani@gmail.com](mailto:vimcdcibatobalani@gmail.com)
 - [<img src="https://s.magecdn.com/social/16w/tc-facebook.png" width="15" height="15" /> VIMCDCI](https://www.facebook.com/VIMCDCI)
@@ -72,4 +73,4 @@ The Pabirik Festival serves as both a celebration of heritage and an educational
 
 - [🏛️ Municipality of Paracale](http://paracale.gov.ph/)
 - [🏛️ Paracale Tourism](https://www.facebook.com/paracale.tourism)
-- 📰 Want to advertise with us? ✉️ Email us at [info@lokal-lista.com](mailto:info@lokal-lista.com)
+- 📰 Want to advertise with us? ✉️ Email us at [info@lokal-lista.com](mailto:info@lokal-lista.com) or [ph.lokallista@gmail.com](mailto:ph.lokallista@gmail.com).

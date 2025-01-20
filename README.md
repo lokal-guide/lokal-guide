@@ -1,4 +1,4 @@
-- Cities / Municipalities
+- Cities/Municipalities
   - [Bato, Camarines Sur](/bayan/paracale.md)
   - [Daraga, Albay](/bayan/daraga.md)
   - [Legazpi, Albay](/bayan/legazpi-city.md)
