@@ -4,29 +4,29 @@ Paracale, the **"Jewelry Box of Camarines Norte"**, is a historic gold mining to
 
 # 🍔 Where to Eat
 
-- [CHB cafe](https://lokal-lista-app.netlify.app/#/business-profile/R751DRgBYQiTPIiPNG7T)
-- [Pub-birik Restobar](https://lokal-lista-app.netlify.app/#/business-profile/ZL9HNcVlwR6xx8ZxaEhe)
-- [Golden Pabirik Restaurant](https://www.lokal-lista.com/#/)
-- [Mga Apo ni Nana Oya Food Hauz](https://www.lokal-lista.com/#/)
-- [R&R Dine n' Sip Corner](https://www.lokal-lista.com/#/)
+- [CHB cafe](https://lokal-lista-app.netlify.app/#/business-profile/KCJ3O17ZUikw2zrwHsJM)
+- [Pub-birik Restobar](https://lokal-lista-app.netlify.app/#/business-profile/LIPYlX6MDs9rZBbNOKbg)
+- [Golden Pabirik Restaurant](https://lokal-lista-app.netlify.app/#/business-profile/nkUERrnNd9Tyaxv9KnmL)
+- [Mga Apo ni Nana Oya Food Hauz](https://lokal-lista-app.netlify.app/#/business-profile/MBuBz4aDb9qjyE4sAs9P)
+- [R&R Dine n' Sip Corner](https://lokal-lista-app.netlify.app/#/business-profile/EuJAlE7kwQUWaujPYm9n)
 
 # 🛌 Places to Stay
 
-- [Paliza Del Rio Tourist Inn](https://www.lokal-lista.com/#/)
-- [Gumaus Bay Resort](https://www.lokal-lista.com/#/)
-- [Moya's Resort](https://www.lokal-lista.com/#/)
-- [Greenland Resort](https://www.lokal-lista.com/#/)
-- [DIEL Family Resort](https://www.lokal-lista.com/#/)
+- [Paliza Del Rio Tourist Inn](https://lokal-lista-app.netlify.app/#/business-profile/5dwZYjXai39X17QLt4D8)
+- [Gumaus Bay Resort](https://lokal-lista-app.netlify.app/#/business-profile/Hp4lv9bPgfeTOQ1EKuJ8)
+- [Moya's Resort](https://lokal-lista-app.netlify.app/#/business-profile/G7V5jnGlGJ9gJAsIQTzH)
+- [Greenland Resort](https://lokal-lista-app.netlify.app/#/business-profile/tJEgudb2xgVGxbR316Rm)
+- [DIEL Family Resort](https://lokal-lista-app.netlify.app/#/business-profile/pvYAyS3GabC3XS0FJEYp)
 
 # 🛍️ Shopping
 
-- [LCC Supermarket](https://www.lokal-lista.com/#/)
+- [LCC Supermarket](https://lokal-lista-app.netlify.app/#/business-profile/ckE417o2iTCym9RyyRmo)
 
 # 🏧 Money
 
-- [Rural Bank of Paracale](https://www.lokal-lista.com/#/)
-- [Rural Bank of Jose Panganiban](https://www.lokal-lista.com/#/)
-- [DBP ATM](https://www.lokal-lista.com/#/)
+- [Rural Bank of Paracale](https://lokal-lista-app.netlify.app/#/business-profile/SEqnPcZGYjdx3HUI8zZf)
+- [Rural Bank of Jose Panganiban](https://lokal-lista-app.netlify.app/#/business-profile/kZCdd8917cL17mnK17Pj)
+- [DBP ATM](https://lokal-lista-app.netlify.app/#/business-profile/JDDAawfvoI1Sc6iZzFVD)
 
 # 🚗 Transportation
 
