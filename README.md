@@ -1,5 +1,8 @@
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 - Cities/Municipalities
-  - [Bato, Camarines Sur](/bayan/paracale.md)
+  - [Bato, Camarines Sur](/bayan/bato.md)
   - [Daraga, Albay](/bayan/daraga.md)
   - [Legazpi, Albay](/bayan/legazpi-city.md)
   - [Iriga City, Camarines Sur](/bayan/iriga-city.md)
