@@ -7,29 +7,39 @@ San Jose boasts stunning beaches along the **Lagonoy Gulf**, making it a great d
 The town celebrates its patron saint, San Jose, with an annual feast day on **May 19**, bringing together locals and visitors for festivities 🎉. Agriculture plays a significant role in the local economy, with copra and rice being major crops 🌾. With its warm hospitality and scenic beauty, San Jose offers a delightful experience for travelers looking to explore the charm of Bicol! 🌟
 
 # 🍔 Where to Eat
-* 
+
+-
 
 # 🛌 Places to Stay
-* 
+
+-
 
 # 🚐 Tours
-* 
+
+-
 
 # 🛍️ Shopping
-* 
-* Pasalubong Center
+
+-
+- Pasalubong Center
 
 # 🏧 Money
-* 
+
+-
 
 # 🚌 Transportation
-* 
+
+-
 
 # Emergency
-* 🚔 San Jose Municipal Police Station | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
-* 🚔 Barangay Tambangan Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
-* 🚔 Barangay San Jose Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
-* 🏥 San Jose Rural Health Unit | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/ruralhealthunitSanJose/)
+
+- 🚔 San Jose Municipal Police Station | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
+- 🚔 Barangay Tambangan Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
+- 🚔 Barangay San Jose Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
+- 🏥 San Jose Rural Health Unit | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](https://www.facebook.com/ruralhealthunitSanJose/)
 
 # 🔗 Partners
-* asd
+
+- asd
+
+{% include sa_component.html %}

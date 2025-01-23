@@ -66,3 +66,5 @@ Paracale, the **"Jewelry Box of Camarines Norte"**, is a historic gold mining to
 - [🏛️ Municipality of Paracale](http://paracale.gov.ph/)
 - [🏛️ Paracale Tourism](https://www.facebook.com/paracale.tourism)
 - 📰 Want to advertise with us? ✉️ Email us at [info@lokal-lista.com](mailto:info@lokal-lista.com) or [ph.lokallista@gmail.com](mailto:ph.lokallista@gmail.com).
+
+{% include sa_component.html %}

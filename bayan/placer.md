@@ -7,28 +7,38 @@ The town boasts a land area of **193.03 square kilometers**, featuring beautiful
 The annual **Himag-Ulaw Festivall** showcases the rich agricultural and fishing heritage of the region, honoring the community's gratitude for their bountiful harvests and marine resources 🌾🐟. With its warm hospitality and stunning landscapes, Placer offers a delightful experience for travelers seeking to explore the beauty of Masbate! 🌟
 
 # 🍔 Where to Eat
-* 
+
+-
 
 # 🛌 Places to Stay
-* 
+
+-
 
 # 🚐 Tours
-* 
+
+-
 
 # 🛍️ Shopping
-* 
-* Pasalubong Center
+
+-
+- Pasalubong Center
 
 # 🏧 Money
-* 
+
+-
 
 # 🚌 Transportation
-* 
+
+-
 
 # Emergency
-* 🚔 Placer Municipal Police Station | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
-* 🚔 Barangay Guinbarocan Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
-* 🏥 TODO
+
+- 🚔 Placer Municipal Police Station | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
+- 🚔 Barangay Guinbarocan Tanod Outpost | [☎️ telephone](tel:+631111111111) | [☎️ mobile](tel:+631111111111) | [<img src="https://www.facebook.com/favicon.ico" width="15" height="15" /> facebook link](#)
+- 🏥 TODO
 
 # 🔗 Partners
-* asd
+
+- asd
+
+{% include sa_component.html %}

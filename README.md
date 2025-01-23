@@ -15,3 +15,5 @@
   - [Karanowan Festival](/pista/karanowan-festival.md)
   - [Pabirik Festival](/pista/pabirik-festival.md)
   - [Tinagba Festival](/pista/tinagba-festival.md)
+
+{% include sa_component.html %}
