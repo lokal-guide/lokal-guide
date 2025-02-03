@@ -12,27 +12,27 @@ The Cagsawa Festival not only serves as a tribute to the past but also promotes 
 
 # 🍔 Where to Eat
 
-- [Balay sa Bikol](https://lokal-lista-app.netlify.app/#/search)
-- [Palamigan](https://lokal-lista-app.netlify.app/#/search)
-- [Red Labuyo Restaurant](https://lokal-lista-app.netlify.app/#/search)
-- [TAPSI na Bradd](https://lokal-lista-app.netlify.app/#/search)
-- [BIGGS](https://lokal-lista-app.netlify.app/#/search)
+- [Balay sa Bikol](https://lokal-lista-app.netlify.app/#/business-profile/4xGJWLbYVKJ0DLyunRy1)
+- [Palamigan](https://lokal-lista-app.netlify.app/#/business-profile/JnrgRTUBWqtD0K9983as)
+- [Red Labuyo Restaurant](https://lokal-lista-app.netlify.app/#/business-profile/krGPHu1Ws7VT7WKRZ84J)
+- [TAPSI na Bradd](https://lokal-lista-app.netlify.app/#/business-profile/DhX5kQA3Nfa2JhVjmx8O)
+- [BIGGS](https://lokal-lista-app.netlify.app/#/business-profile/hdn5JTilDL1G8G8QuWAi)
 
 # 🛌 Places to Stay
 
-- [Alta Residences](https://lokal-lista-app.netlify.app/#/search)
-- [Casa Bicolandia Suites](https://lokal-lista-app.netlify.app/#/search)
-- [Y’s Rezidenzia Suites](https://lokal-lista-app.netlify.app/#/search)
-- [Daraga Tourist Inn](https://lokal-lista-app.netlify.app/#/search)
-- [FJ MANILA HOTEL](https://lokal-lista-app.netlify.app/#/search)
+- [Alta Residences](https://lokal-lista-app.netlify.app/#/business-profile/vblaCQw9SB9TKQUCQOgA)
+- [Casa Bicolandia Suites](https://lokal-lista-app.netlify.app/#/business-profile/w5Il12rJEv4FbeHaOkil)
+- [Y’s Rezidenzia Suites](https://lokal-lista-app.netlify.app/#/business-profile/umuZHR6zbfysIvVY9sOg)
+- [Daraga Tourist Inn](https://lokal-lista-app.netlify.app/#/business-profile/6E7vDjf46dJVlfVK9PHy)
+- [FJ MANILA HOTEL](https://lokal-lista-app.netlify.app/#/business-profile/XiXpEMSl4vM1KK3AaDrx)
 
 # 🛍️ Shopping
 
-- [C.O.P. Pili Sweets and Pastries](https://lokal-lista-app.netlify.app/#/search)
-- [Lilay’s Pasalubong](https://lokal-lista-app.netlify.app/#/search)
-- [STARBEX](https://lokal-lista-app.netlify.app/#/search)
-- [Grafik Tee](https://lokal-lista-app.netlify.app/#/search)
-- [Eza Ezel Souvenir Shop](https://lokal-lista-app.netlify.app/#/search)
+- [C.O.P. Pili Sweets and Pastries](https://lokal-lista-app.netlify.app/#/business-profile/K331VO25welg4io8WvoB)
+- [Lilay’s Pasalubong](https://lokal-lista-app.netlify.app/#/business-profile/KLL2N1LbCdyRqL8h6F5O)
+- [STARBEX](https://lokal-lista-app.netlify.app/#/business-profile/lNE8oZijbddz60uG3F60)
+- [Grafik Tee](https://lokal-lista-app.netlify.app/#/business-profile/m1j32qdgaOvombvpKCDW)
+- [Eza Ezel Souvenir Shop](https://lokal-lista-app.netlify.app/#/business-profile/SZLcG0WL5kuWL72YaBex)
 
 ### 📿 Cagsawa Pasalubong Center
 
@@ -40,11 +40,11 @@ The Cagsawa Festival not only serves as a tribute to the past but also promotes 
 
 # 🏧 Money
 
-- [Metrobank](https://lokal-lista-app.netlify.app/#/search)
-- [Landbank](https://lokal-lista-app.netlify.app/#/search)
-- [PNB](https://lokal-lista-app.netlify.app/#/search)
-- [China Bank Savings](https://lokal-lista-app.netlify.app/#/search)
-- [BDO ATM](https://lokal-lista-app.netlify.app/#/search)
+- [Metrobank](https://lokal-lista-app.netlify.app/#/business-profile/W8jQpiv4rSC0XLQF3ls0)
+- [Landbank](https://lokal-lista-app.netlify.app/#/business-profile/C8MARn8QIb0RrFwTue4X)
+- [PNB](https://lokal-lista-app.netlify.app/#/business-profile/zasIVudmF6wFfRvO6Fwv)
+- [China Bank Savings](https://lokal-lista-app.netlify.app/#/business-profile/YbKjJ0qjgpL87ccl0HxX)
+- [BDO ATM](https://lokal-lista-app.netlify.app/#/business-profile/PNeaFYn0fbigulSays4e)
 
 # 🚗 Transportation
 
