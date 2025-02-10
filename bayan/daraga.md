@@ -1,3 +1,7 @@
+<div class="banner">
+    <img src="/assets/images/banner-daraga-640x480.jpg" alt="Banner Image" class="banner-image">
+</div>
+
 # Daraga, Albay
 
 Daraga is a picturesque municipality located in **Albay**, Philippines, known for its stunning views of the iconic **Mayon Volcano** 🌋. Officially recognized as the **Municipality of Daraga**, it boasts a population of approximately **133,893** residents as of the 2020 census 🏘️. The town is famous for its historical sites, particularly the **Cagsawa Ruins**, which are remnants of a church that was buried during the catastrophic eruption of Mayon in 1814 ⛪.
