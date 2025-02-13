@@ -1,3 +1,7 @@
+<div class="banner">
+  <img src="assets/images/banner-paracale-640x480.jpg" alt="Banner Image" class="banner-image">
+</div>
+
 # Paracale, Camarines Norte
 
 Paracale, the **"Jewelry Box of Camarines Norte"**, is a historic gold mining town with a fascinating heritage! 🏅 Located in the northeastern part of Camarines Norte, this coastal municipality boasts a rich gold mining tradition dating back to the Spanish colonial period, with over half its population involved in artisanal and small-scale gold mining. 🌊 The town's name derives from _para cale_, meaning "canal digger", reflecting its deep connection to gold extraction, and is celebrated annually during the vibrant [**Pabirik Festival**](https://lokal-guide.github.io/lokal-guide/pista/pabirik-festival.html) featuring gold mining-themed parade floats. 🎉 Visitors can explore the municipal building's mini-museum showcasing exquisite locally crafted gold jewelry and learn about the town's unique mining culture. 🏺 With stunning coastal landscapes, access to the beautiful Calaguas Islands, and a population of 60,198, Paracale offers a compelling blend of natural beauty, historical significance, and cultural richness. 🌴

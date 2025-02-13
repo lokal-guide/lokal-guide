@@ -1,5 +1,5 @@
 <div class="banner">
-    <img src="assets/images/banner-daraga-640x480.jpg" alt="Banner Image" class="banner-image">
+  <img src="assets/images/banner-daraga-640x480.jpg" alt="Banner Image" class="banner-image">
 </div>
 
 # Daraga, Albay
