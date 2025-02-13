@@ -4,35 +4,34 @@
 
 # Daraga, Albay
 
-Daraga is a picturesque municipality located in **Albay**, Philippines, known for its stunning views of the iconic **Mayon Volcano** 🌋. Officially recognized as the **Municipality of Daraga**, it boasts a population of approximately **133,893** residents as of the 2020 census 🏘️. The town is famous for its historical sites, particularly the **Cagsawa Ruins**, which are remnants of a church that was buried during the catastrophic eruption of Mayon in 1814 ⛪.
-
-Another notable attraction is the **Daraga Church**, also known as **Our Lady of the Gate Parish**, celebrated for its exquisite Baroque architecture and panoramic views of the surrounding landscape 🌟. Daraga's economy has evolved from agriculture to a more urbanized system, benefiting from its proximity to Legazpi City and the newly established **Bicol International Airport** ✈️.
-
-The municipality is rich in cultural heritage, with various local festivals that showcase traditional music, dance, and culinary delights 🍽️. Visitors can explore charming colonial-era buildings and enjoy local handicrafts at vibrant markets 🎨. Outdoor enthusiasts will find plenty of opportunities for adventure, including hiking trails around Mayon Volcano and ATV rides 🚵‍♂️. With its blend of natural beauty and cultural richness, Daraga offers an unforgettable experience for travelers seeking to immerse themselves in Bicolano life! 🎉
+Daraga is a tourism hotspot in Albay, offering jaw-dropping views of the perfect **Mayon Volcano** and incredible historical sites like the **Cagsawa Ruins** 🌋⛪. Travelers can explore the stunning **Daraga Church** with its rare Baroque architecture and enjoy panoramic landscapes that will make your Instagram followers super jealous 🌟. Daraga is basically a traveler’s paradise packed with natural beauty and cultural vibes 🚵‍♂️🎉
 
 # 🍔 Where to Eat
 
-- [Balay sa Bikol](https://lokal-lista-app.netlify.app/#/business-profile/4xGJWLbYVKJ0DLyunRy1)
-- [Palamigan](https://lokal-lista-app.netlify.app/#/business-profile/JnrgRTUBWqtD0K9983as)
-- [Red Labuyo Restaurant](https://lokal-lista-app.netlify.app/#/business-profile/krGPHu1Ws7VT7WKRZ84J)
-- [TAPSI na Bradd](https://lokal-lista-app.netlify.app/#/business-profile/DhX5kQA3Nfa2JhVjmx8O)
-- [BIGGS](https://lokal-lista-app.netlify.app/#/business-profile/hdn5JTilDL1G8G8QuWAi)
+- [Balay sa Bikol](https://app.lokal-lista.com/#/business-profile/4xGJWLbYVKJ0DLyunRy1)
+- [Palamigan](https://app.lokal-lista.com/#/business-profile/JnrgRTUBWqtD0K9983as)
+- [Red Labuyo Restaurant](https://app.lokal-lista.com/#/business-profile/krGPHu1Ws7VT7WKRZ84J)
+- [TAPSI na Bradd](https://app.lokal-lista.com/#/business-profile/DhX5kQA3Nfa2JhVjmx8O)
+- [BIGGS](https://app.lokal-lista.com/#/business-profile/hdn5JTilDL1G8G8QuWAi)
+- See more [here](https://app.lokal-lista.com)
 
 # 🛌 Places to Stay
 
-- [Alta Residences](https://lokal-lista-app.netlify.app/#/business-profile/vblaCQw9SB9TKQUCQOgA)
-- [Casa Bicolandia Suites](https://lokal-lista-app.netlify.app/#/business-profile/w5Il12rJEv4FbeHaOkil)
-- [Y’s Rezidenzia Suites](https://lokal-lista-app.netlify.app/#/business-profile/umuZHR6zbfysIvVY9sOg)
-- [Daraga Tourist Inn](https://lokal-lista-app.netlify.app/#/business-profile/6E7vDjf46dJVlfVK9PHy)
-- [FJ MANILA HOTEL](https://lokal-lista-app.netlify.app/#/business-profile/XiXpEMSl4vM1KK3AaDrx)
+- [Alta Residences](https://app.lokal-lista.com/#/business-profile/vblaCQw9SB9TKQUCQOgA)
+- [Casa Bicolandia Suites](https://app.lokal-lista.com/#/business-profile/w5Il12rJEv4FbeHaOkil)
+- [Y’s Rezidenzia Suites](https://app.lokal-lista.com/#/business-profile/umuZHR6zbfysIvVY9sOg)
+- [Daraga Tourist Inn](https://app.lokal-lista.com/#/business-profile/6E7vDjf46dJVlfVK9PHy)
+- [FJ MANILA HOTEL](https://app.lokal-lista.com/#/business-profile/XiXpEMSl4vM1KK3AaDrx)
+- See more [here](https://app.lokal-lista.com)
 
 # 🛍️ Shopping
 
-- [C.O.P. Pili Sweets and Pastries](https://lokal-lista-app.netlify.app/#/business-profile/K331VO25welg4io8WvoB)
-- [Lilay’s Pasalubong](https://lokal-lista-app.netlify.app/#/business-profile/KLL2N1LbCdyRqL8h6F5O)
-- [STARBEX](https://lokal-lista-app.netlify.app/#/business-profile/lNE8oZijbddz60uG3F60)
-- [Grafik Tee](https://lokal-lista-app.netlify.app/#/business-profile/m1j32qdgaOvombvpKCDW)
-- [Eza Ezel Souvenir Shop](https://lokal-lista-app.netlify.app/#/business-profile/SZLcG0WL5kuWL72YaBex)
+- [C.O.P. Pili Sweets and Pastries](https://app.lokal-lista.com/#/business-profile/K331VO25welg4io8WvoB)
+- [Lilay’s Pasalubong](https://app.lokal-lista.com/#/business-profile/KLL2N1LbCdyRqL8h6F5O)
+- [STARBEX](https://app.lokal-lista.com/#/business-profile/lNE8oZijbddz60uG3F60)
+- [Grafik Tee](https://app.lokal-lista.com/#/business-profile/m1j32qdgaOvombvpKCDW)
+- [Eza Ezel Souvenir Shop](https://app.lokal-lista.com/#/business-profile/SZLcG0WL5kuWL72YaBex)
+- See more [here](https://app.lokal-lista.com)
 
 ### 📿 Cagsawa Pasalubong Center
 
@@ -40,11 +39,12 @@ The municipality is rich in cultural heritage, with various local festivals that
 
 # 🏧 Money
 
-- [Metrobank](https://lokal-lista-app.netlify.app/#/business-profile/W8jQpiv4rSC0XLQF3ls0)
-- [Landbank](https://lokal-lista-app.netlify.app/#/business-profile/C8MARn8QIb0RrFwTue4X)
-- [PNB](https://lokal-lista-app.netlify.app/#/business-profile/zasIVudmF6wFfRvO6Fwv)
-- [China Bank Savings](https://lokal-lista-app.netlify.app/#/business-profile/YbKjJ0qjgpL87ccl0HxX)
-- [BDO ATM](https://lokal-lista-app.netlify.app/#/business-profile/PNeaFYn0fbigulSays4e)
+- [Metrobank](https://app.lokal-lista.com/#/business-profile/W8jQpiv4rSC0XLQF3ls0)
+- [Landbank](https://app.lokal-lista.com/#/business-profile/C8MARn8QIb0RrFwTue4X)
+- [PNB](https://app.lokal-lista.com/#/business-profile/zasIVudmF6wFfRvO6Fwv)
+- [China Bank Savings](https://app.lokal-lista.com/#/business-profile/YbKjJ0qjgpL87ccl0HxX)
+- [BDO ATM](https://app.lokal-lista.com/#/business-profile/PNeaFYn0fbigulSays4e)
+- See more [here](https://app.lokal-lista.com)
 
 # 🚗 Transportation
 
