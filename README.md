@@ -11,14 +11,14 @@ Access all your **essential information**:
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-  <div onclick="window.location.href='lokal-guide/bayan/daraga.html'" style="cursor: pointer; width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); text-align: center; background: #fff;">
+  <div onclick="window.location.href='bayan/daraga.html'" style="cursor: pointer; width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); text-align: center; background: #fff;">
       <img src="bayan/assets/images/banner-daraga-640x480.jpg" alt="Travel Destination" style="width: 100%; height: auto;">
       <div style="padding: 15px;">
           <p style="color: #555;"><strong>Daraga</strong> Known for its stunning views of the iconic Mayon Volcano</p>
       </div>
   </div>
 
-  <div onclick="window.location.href='lokal-guide/bayan/paracale.html'" style="cursor: pointer; width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); text-align: center; background: #fff;">
+  <div onclick="window.location.href='bayan/paracale.html'" style="cursor: pointer; width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); text-align: center; background: #fff;">
       <img src="bayan/assets/images/banner-paracale-640x480.jpg" alt="Travel Destination" style="width: 100%; height: auto;">
       <div style="padding: 15px;">
           <p style="color: #555;"><strong>Paracale</strong> With its lovely coastal landscapes</p>
