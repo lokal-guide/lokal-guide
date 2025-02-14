@@ -85,4 +85,5 @@ Daraga is a tourism hotspot in Albay, offering jaw-dropping views of the perfect
 - [✉️ brhmc.cares@gmail.com](mailto:brhmc.cares@gmail.com)
 - [<img src="https://s.magecdn.com/social/16w/tc-facebook.png" width="15" height="15" /> Bicol Regional Hospital and Medical Center - BRHMC ](https://www.facebook.com/brhmcofficial)
 
+{% include ga_component.html %}
 {% include sa_component.html %}

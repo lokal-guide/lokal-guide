@@ -27,4 +27,5 @@ Access all your **essential information**:
 
 </div>
 
+{% include ga_component.html %}
 {% include sa_component.html %}

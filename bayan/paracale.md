@@ -73,4 +73,5 @@ Paracale, the **"Jewelry Box of Camarines Norte"**, famous for its gold mining h
 - [🏛️ Paracale Tourism](https://www.facebook.com/paracale.tourism)
 - 📰 Want to advertise with us? ✉️ Email us at [info@lokal-lista.com](mailto:info@lokal-lista.com) or [ph.lokallista@gmail.com](mailto:ph.lokallista@gmail.com).
 
+{% include ga_component.html %}
 {% include sa_component.html %}
